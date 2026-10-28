@@ -1,0 +1,8 @@
+Tea,Drinks,80
+Coffee,Drinks,150
+Juice,Drinks,120
+Samosa,Snacks,50
+Sandwich,Snacks,180
+Fries,Snacks,150
+Biryani,Meals,300
+Pulao,Meals,250
